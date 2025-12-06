@@ -1,0 +1,1 @@
+- text-datei für unsere erste python - datei: main.py , directory:project_1
