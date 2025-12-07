@@ -1,3 +1,5 @@
-- text-datei für unsere erste python - datei: main.py  directory:projec!
+
+- text-datei für unsere erste python - datei: main.py  directory:project!
+>>>>>>> staging
 cloud vs security
 >>>>>>> main
